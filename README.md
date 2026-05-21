@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- البانر / اللوجو الخاص بك بحجم كامل -->
-  <img src="https://hsg-new.vercel.app/assets/880o868973_1764355143132-DmkKtir2.png" alt="HSG Master Banner" width="70%" />
+  <img src="https://hsg-new.vercel.app/assets/880o868973_1764355143132-DmkKtir2.png" alt="HSG Master Banner" width="30%" />
 
   <br><br>
 
